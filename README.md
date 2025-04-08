@@ -14,17 +14,6 @@ ZERDS delivers cutting-edge digital solutions with expertise in:
 **Founded by:** Vasanth S & Balaji E  
 **Mission:** To transform businesses through secure, scalable digital solutions
 
----
-
-## 🛠 Tech Stack
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-
----
-
 ## 📬 Contact Us
 
 **Email:** [zerds.global@gmail.com](mailto:zerds.global@gmail.com)  
