@@ -28,9 +28,7 @@ ZERDS delivers cutting-edge digital solutions with expertise in:
 ## 🌐 Connect With Us
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZERDS-0077B5?logo=linkedin)](https://linkedin.com/company/zerds)
-[![Twitter](https://img.shields.io/badge/Twitter-@ZERDS-1DA1F2?logo=twitter)](https://twitter.com/zerds)
 [![Instagram](https://img.shields.io/badge/Instagram-@ZERDS-E4405F?logo=instagram)](https://instagram.com/zerds)
-[![Facebook](https://img.shields.io/badge/Facebook-ZERDS-1877F2?logo=facebook)](https://facebook.com/zerds)
 
 ---
 
