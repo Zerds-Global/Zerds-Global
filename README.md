@@ -1,4 +1,4 @@
-# <img src="/image/logo.png" width="50"> ZerDs
+# <img src="./image/logo.png" width="50"> ZerDs
 
 > **Digital Innovation Leaders | Web • Mobile • Blockchain • Security**
 
