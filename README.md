@@ -1,8 +1,6 @@
-# <img src="https://i.imgur.com/YOUR_LOGO.png" width="50"> ZERDS
+# <img src="/image/logo.png" width="50"> ZerDs
 
 > **Digital Innovation Leaders | Web • Mobile • Blockchain • Security**
-
-![Company Banner](https://i.imgur.com/YOUR_BANNER.jpg)
 
 ## 🌟 About Us
 ZERDS delivers cutting-edge digital solutions with expertise in:
@@ -17,8 +15,8 @@ ZERDS delivers cutting-edge digital solutions with expertise in:
 ## 📬 Contact Us
 
 **Email:** [zerds.global@gmail.com](mailto:zerds.global@gmail.com)  
-**Phone:** [+91 YOUR_PHONE]  
-**Address:** [Your Company Address]  
+**Phone:** [+91 8838383300]  
+**Address:** [Chennai]  
 
 **Business Inquiries:** [partners@zerds.com](mailto:partners@zerds.com)  
 **Careers:** [careers@zerds.com](mailto:careers@zerds.com)  
@@ -44,7 +42,7 @@ ZERDS delivers cutting-edge digital solutions with expertise in:
 
 ## 📊 Company Metrics
 ```text
-✔ Founded: 2023
+✔ Founded: 2024
 ✔ Projects Completed: 5+
 ✔ Team Members: 15+
 ✔ Clients Served: 5+
